@@ -1,2 +1,3 @@
-# MinhThuys
-task2
+# frontend
+Layout thực tập frontend
+1.1
